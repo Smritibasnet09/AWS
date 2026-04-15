@@ -80,18 +80,27 @@ Used for **security auditing + monitoring**
 
 ## 🖼️ Screenshots
 
-![IAM Role Setup](images/page1.jpeg)
-*IAM Role Configuration*
+## 🖼️ Screenshots
 
-![MFA Setup](images/page2.jpeg)
-*Enabling Multi-Factor Authentication*
+<p align="center">
+  <img src="images/page1.jpeg" width="450">
+  <img src="images/page2.jpeg" width="450">
+</p>
 
-![IAM Policies](images/page3.jpeg)
-*Policy Configuration*
+<p align="center">
+  <em>IAM Role Setup & MFA Configuration</em>
+</p>
 
-![Credential Report](images/page4.jpeg)
-*Credential Report Overview*
----
+<br>
+
+<p align="center">
+  <img src="images/page3.jpeg" width="450">
+  <img src="images/page4.jpeg" width="450">
+</p>
+
+<p align="center">
+  <em>IAM Policies & Credential Report</em>
+</p>
 
 ## 🧪 Mini Quiz (Test Yourself)
 
