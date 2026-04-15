@@ -102,51 +102,6 @@ Used for **security auditing + monitoring**
   <em>IAM Policies & Credential Report</em>
 </p>
 
-## 🧪 Mini Quiz (Test Yourself)
-
-### Q1. What is the main purpose of an IAM Role?
-
-A. Store passwords
-B. Provide temporary access permissions
-C. Delete users
-D. Encrypt data
-
-✅ Answer: B
-
----
-
-### Q2. IAM Policies are written in:
-
-A. XML
-B. YAML
-C. JSON
-D. HTML
-
-✅ Answer: C
-
----
-
-### Q3. What does MFA improve?
-
-A. Performance
-B. Storage
-C. Security
-D. Networking
-
-✅ Answer: C
-
----
-
-### Q4. IAM Credential Report helps to:
-
-A. Increase speed
-B. Monitor security credentials
-C. Deploy apps
-D. Store files
-
-✅ Answer: B
-
----
 
 ## 🧠 Real-World Scenario
 
