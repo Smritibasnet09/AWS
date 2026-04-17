@@ -1,4 +1,4 @@
-# Day 03 – AWS: Cross Account Access & S3
+# AWS: Cross Account Access & S3
 
 ## Overview
 This session focused on understanding how AWS enables secure resource sharing between accounts and how to store and manage data using Amazon S3.
