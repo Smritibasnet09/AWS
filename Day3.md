@@ -53,7 +53,7 @@ S3 provides reliable and secure storage with flexible access management.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d36d1d5e-9d1d-47a5-abfc-9d15681d4b17" width="260"/>
-  <img src="https://github.com/user-attachments/assets/ddda72d8-b232-4ef3-85e0-5342c506f1f9" width="420"/>
+  <img src="https://github.com/user-attachments/assets/ddda72d8-b232-4ef3-85e0-5342c506f1f9" width="260"/>
 </p>
 
 <p align="center">
