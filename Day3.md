@@ -53,18 +53,20 @@ S3 provides reliable and secure storage with flexible access management.
 <p align="center">
   <img width="300" height="300" alt="WhatsApp Image 2026-04-16 at 10 50 56 PM" src="https://github.com/user-attachments/assets/d36d1d5e-9d1d-47a5-abfc-9d15681d4b17" />
 
-  <img src="Day03/images/page2.jpeg" width="300">
 </p>
 <p align="center">
-  <em>IAM Role and Trust Policy Configuration</em>
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-04-16 at 10 50 56 PM (1)" src="https://github.com/user-attachments/assets/ddda72d8-b232-4ef3-85e0-5342c506f1f9" />
+
 </p>
 
 ---
 
 ### S3 Bucket Configuration
 <p align="center">
-  <img src="Day03/images/page3.jpeg" width="300">
-  <img src="Day03/images/page4.jpeg" width="300">
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-04-16 at 10 50 57 PM (1)" src="https://github.com/user-attachments/assets/341ce89c-2053-43c1-bc21-d1021eadd1e9" />
+
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-04-16 at 10 50 57 PM (2)" src="https://github.com/user-attachments/assets/c6644cf3-3c1e-47ea-8abb-2db33e7003c5" />
+
 </p>
 <p align="center">
   <em>Bucket creation and permission settings</em>
@@ -72,10 +74,10 @@ S3 provides reliable and secure storage with flexible access management.
 
 ---
 
-### Final Output Verification
+### Question
 <p align="center">
-  <img src="Day03/images/page5.jpeg" width="300">
-  <img src="Day03/images/page6.jpeg" width="300">
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-04-16 at 10 50 57 PM" src="https://github.com/user-attachments/assets/040c6201-cc0b-465b-8c2c-5c33b6cf0198" />
+
 </p>
 <p align="center">
   <em>Successful configuration and access verification</em>
