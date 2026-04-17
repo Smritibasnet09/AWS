@@ -1,4 +1,4 @@
-# 🚀 Day 2 – IAM Deep Dive (AWS)
+# IAM Deep Dive (AWS)
 
 ## Topics Covered
 
