@@ -232,7 +232,6 @@ It occurs result like :
 - High availability  
 - Cost efficiency  
 
----
 
 # 4. Templates
 
