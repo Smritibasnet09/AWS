@@ -227,7 +227,7 @@ These services work together:
 2. Load balancer distributes traffic  
 3. Auto scaling adjusts instances based on load  
 
-Result in:
+It occurs result like :
 - High performance  
 - High availability  
 - Cost efficiency  
