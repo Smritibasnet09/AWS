@@ -156,3 +156,121 @@ Auto Scaling automatically:
 Ex: Desired Capacity = 4
 
 
+
+AWS always tries to maintain this number.
+
+---
+
+## 🔹 How AWS Decides to Scale?
+
+Based on monitoring metrics such as:
+- CPU utilization  
+- Memory (RAM) usage  
+- Network traffic  
+
+Ex rule:
+
+CPU > 70% → Add 2 instances
+
+CPU < 30% → Remove 1 instance
+
+
+---
+
+## 🔹 Types of Scaling
+
+---
+
+### 1. Dynamic Scaling
+
+- Based on real-time metrics  
+Ex:
+High CPU → Add instances
+Low CPU → Remove instances
+
+
+---
+
+### 2. Scheduled Scaling
+
+- Based on time  
+
+Ex: Increase instances at 9 AM daily
+
+
+---
+
+### 3. Predictive Scaling
+
+- Uses machine learning to predict future demand  
+
+Ex:
+- Automatically increases instances before expected traffic surge  
+
+---
+
+## 🔹 Scaling Actions
+
+- **Scale Out** → Add instances  
+- **Scale In** → Remove instances  
+
+---
+
+# 3. Load Balancer + Auto Scaling 
+
+These services work together:
+
+| Component      | Function                     |
+|----------------|-----------------------------|
+| Load Balancer  | Distributes traffic         |
+| Auto Scaling   | Adjusts number of instances |
+
+### Workflow:
+1. User sends request  
+2. Load balancer distributes traffic  
+3. Auto scaling adjusts instances based on load  
+
+Result in:
+- High performance  
+- High availability  
+- Cost efficiency  
+
+---
+
+# 4. Templates
+
+The statement:
+> "By using templates, we can navigate from one box to another box during loading"
+
+### ✔ Meaning:
+
+This refers to tools like **AWS CloudFormation**.
+
+- Load balancer  
+- EC2 instances  
+- Auto scaling group  
+
+AWS automatically:
+- Creates resources  
+- Connects everything  
+
+---
+
+# Summary of today's class
+
+- ALB → HTTP/HTTPS (Layer 7)  
+- NLB → TCP/UDP (Layer 4, static IP)  
+- GWLB → Security (GENEVE protocol)  
+- Target Group → EC2 instances  
+- Sticky sessions → Not recommended  
+- Cross-zone → Better when enabled  
+
+---
+
+- Auto Scaling → Automatic EC2 scaling  
+- Desired capacity → Target instance count  
+- CPU > 70% → Scale out  
+- CPU < 30% → Scale in  
+- Types → Dynamic, Scheduled, Predictive  
+
+---
