@@ -117,7 +117,7 @@ This improves security.
 
 ---
 
-## Cross-Zone Load Balancing
+## Cross-Zone Load Balanced
 
 ### 🔹 Enabled:
 - Traffic is evenly distributed across all availability zones  
