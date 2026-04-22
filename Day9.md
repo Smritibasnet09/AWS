@@ -83,3 +83,15 @@ login → EC2 Instance 1
 
 Each load balancer has a DNS like: xxx.region.elb.amazonaws.com
 
+Users access the application through this.
+
+---
+
+### 📌 2. Target Group
+
+- A group of EC2 instances  
+- Load balancer sends traffic to this group  
+
+Ex: Target Group → [EC2-1, EC2-2, EC2-3]
+
+
