@@ -128,7 +128,7 @@ This improves security.
 
 ---
 
-# 2. Auto Scaling Group (ASG)
+# 2. Auto Scaling Group
 
 ---
 
