@@ -178,8 +178,6 @@ CPU < 30% → Remove 1 instance
 
 ## 🔹 Types of Scaling
 
----
-
 ### 1. Dynamic Scaling
 
 - Based on real-time metrics  
