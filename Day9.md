@@ -95,3 +95,64 @@ Users access the application through this.
 Ex: Target Group → [EC2-1, EC2-2, EC2-3]
 
 
+---
+
+### 📌 3. Private Traffic Handling
+
+- EC2 instances can be in a **private subnet**
+- Load balancer receives public traffic and forwards it internally  
+
+This improves security.
+
+---
+
+## Sticky Sessions 
+
+- Keeps a user connected to the same EC2 instance  
+
+### Disadvantages:
+- Uneven load distribution  
+- If instance fails → user session is lost  
+
+
+---
+
+## ⚠️ Cross-Zone Load Balancing
+
+### 🔹 Enabled:
+- Traffic is evenly distributed across all availability zones  
+
+### 🔹 Disabled:
+- Traffic stays within the same availability zone  
+
+
+---
+
+# 2. Auto Scaling Group (ASG)
+
+---
+
+## 🔹 What is Auto Scaling?
+
+Auto Scaling automatically:
+- Adds EC2 instances (**Scale Out**)  
+- Removes EC2 instances (**Scale In**)  
+
+---
+
+## 🔹 Why Auto Scaling is Important?
+
+- Handles traffic spikes automatically  
+- Reduces manual effort  
+- Saves cost  
+- Maintains availability  
+
+---
+
+## 🔹 Desired Capacity
+
+- The number of EC2 instances you want running  
+
+Ex: Desired Capacity = 4
+
+
