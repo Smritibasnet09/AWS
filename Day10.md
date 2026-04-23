@@ -45,7 +45,9 @@ Today I learned about **Amazon RDS (Relational Database Service)** and **Amazon 
 RDS makes database management easier, while Aurora takes performance and scalability to the next level.
 
 
-Some tricks to remember it :
+
+
+**Some tricks to remember it :**
 
 🔹 RDS → Fully managed relational database with automated backups, patching, and scaling
 
