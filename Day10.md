@@ -50,3 +50,5 @@ Some tricks to remember it :
 🔹 RDS → Fully managed relational database with automated backups, patching, and scaling
 
 🔹 Aurora → AWS-optimized relational DB with high performance and auto-scaling storage
+
+🔹 Aurora Global DB → Replicates data across regions for low-latency global access
