@@ -48,3 +48,5 @@ RDS makes database management easier, while Aurora takes performance and scalabi
 Some tricks to remember it :
 
 🔹 RDS → Fully managed relational database with automated backups, patching, and scaling
+
+🔹 Aurora → AWS-optimized relational DB with high performance and auto-scaling storage
