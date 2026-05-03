@@ -4,7 +4,7 @@
 Simple routing is the most basic type of routing. In this, a domain name is connected to only one server or IP address. Whenever a user requests that domain, they are always sent to the same server. It does not consider anything like location, traffic, or server health.  
 Example: example.com → 192.168.1.1 (all users go to this one server)
 
-**Weighted Routing**  
+# **Weighted Routing**  
 Weighted routing is used when you want to distribute traffic between multiple servers based on assigned percentages. Each server is given a weight, and traffic is divided according to those weights.  
 Example: Server A (weight 70) gets about 70% traffic, Server B (weight 30) gets about 30% traffic
 
