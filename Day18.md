@@ -12,7 +12,7 @@ Example: Server A (weight 70) gets about 70% traffic, Server B (weight 30) gets 
 Failover routing is used for reliability. In this, there is a primary server and a backup server. Normally, all traffic goes to the primary server. If the primary server fails, traffic is automatically redirected to the backup server.  
 Example: Primary → Server A, Backup → Server B; if Server A goes down, all traffic shifts to Server B
 
-**Latency-Based Routing**  
+# **Latency-Based Routing**  
 Latency-based routing focuses on performance. It sends users to the server that provides the fastest response time based on their location and network conditions.  
 Example: A user in Nepal is routed to an Asia server, while a user in Europe is routed to a Europe server
 
