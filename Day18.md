@@ -24,7 +24,7 @@ Example: Users from Nepal → Server A, Users from India → Server B
 Multi-value routing returns multiple healthy servers instead of just one. The system checks which servers are available and provides a list of them. The client then chooses one.  
 Example: DNS returns three IPs (192.168.1.1, 192.168.1.2, 192.168.1.3), and the user connects to one of them
 
-**Geoproximity Routing**  
+# **Geoproximity Routing**  
 Geoproximity routing routes traffic based on how close a user is to a server, but also allows manual control to shift traffic between regions.  
 Example: Even if users are closer to Server A, you can shift more traffic toward Server B to balance load
 
