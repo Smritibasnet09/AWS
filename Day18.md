@@ -1,6 +1,6 @@
 # Learning of Today
 
-**Simple Routing**  
+# **Simple Routing**  
 Simple routing is the most basic type of routing. In this, a domain name is connected to only one server or IP address. Whenever a user requests that domain, they are always sent to the same server. It does not consider anything like location, traffic, or server health.  
 Example: example.com → 192.168.1.1 (all users go to this one server)
 
