@@ -28,6 +28,6 @@ Example: DNS returns three IPs (192.168.1.1, 192.168.1.2, 192.168.1.3), and the 
 Geoproximity routing routes traffic based on how close a user is to a server, but also allows manual control to shift traffic between regions.  
 Example: Even if users are closer to Server A, you can shift more traffic toward Server B to balance load
 
-**IP-Based Routing**  
+# **IP-Based Routing**  
 IP-based routing uses the user’s IP address to decide where to send the request. Different IP ranges can be mapped to different servers.  
 Example: Company IP range → Internal server, Public users → Public server
