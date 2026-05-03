@@ -20,7 +20,7 @@ Example: A user in Nepal is routed to an Asia server, while a user in Europe is 
 Geolocation routing is based on the user’s physical location. Traffic is routed depending on the country or region from which the request is coming.  
 Example: Users from Nepal → Server A, Users from India → Server B
 
-**Multi-Value Routing**  
+# **Multi-Value Routing**  
 Multi-value routing returns multiple healthy servers instead of just one. The system checks which servers are available and provides a list of them. The client then chooses one.  
 Example: DNS returns three IPs (192.168.1.1, 192.168.1.2, 192.168.1.3), and the user connects to one of them
 
