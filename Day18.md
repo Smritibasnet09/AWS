@@ -8,7 +8,7 @@ Example: example.com → 192.168.1.1 (all users go to this one server)
 Weighted routing is used when you want to distribute traffic between multiple servers based on assigned percentages. Each server is given a weight, and traffic is divided according to those weights.  
 Example: Server A (weight 70) gets about 70% traffic, Server B (weight 30) gets about 30% traffic
 
-**Failover Routing**  
+# **Failover Routing**  
 Failover routing is used for reliability. In this, there is a primary server and a backup server. Normally, all traffic goes to the primary server. If the primary server fails, traffic is automatically redirected to the backup server.  
 Example: Primary → Server A, Backup → Server B; if Server A goes down, all traffic shifts to Server B
 
